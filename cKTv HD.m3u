@@ -1,0 +1,12 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://pbs.twimg.com/profile_images/614065667/Logo-01.png" pltv-name="cKTv HD" 
+pltv-description="CANAIS" pltv-cover="http://3.bp.blogspot.com/-FBLngaCoT0U/Vc0I4ltHFxI/AAAAAAAAKdM/ZY12hSChWH4/s1600/Warner-Bros.-DC-750x400.jpg" 
+pltv-author="CIVAL MARKES" pltv-site="XXX SITE CASO HOUVER XXX" pltv-email="XXX E-MAIL XXX"
+
+
+################## XXXX CANAIS XXXX ########################
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS ABERTO" 
+pltv-subgroup="CANAIS",GLOBO RBS, 
+http://su.ff.avast.com/R/A3kKIDNhZjI1ZWY3NWY1ZTRlN2E4NWNlNzE1NjRlNjlkZTA1EgQACQQXGMADIgH_KgcIBBDVlq1PKgcIAxCeiKdPMgoIBBDVlq1PGIAKOMOXjIgBQiD7m5pjE4M1rZFjzi9r2X1az5O0lnQhPr5i10vPPJbxjEiAgpgI
+
