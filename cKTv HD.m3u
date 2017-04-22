@@ -1,8 +1,0 @@
-#EXTM3U
-#PLAYLISTV: pltv-logo="https://pbs.twimg.com/profile_images/614065667/Logo-01.png" pltv-name="cKTv HD" 
-pltv-description="CANAIS" pltv-cover="https://yoganewzealand.files.wordpress.com/2017/04/vintage-art03-1024x724.jpg" 
-pltv-author="CIVAL MARKES" 
-################## XXXX CANAIS XXXX ########################
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS ABERTO" 
-pltv-subgroup="CANAIS",GLOBO RBS, 
-http://www.weltontv.net/Canais/disneyxd.htm
